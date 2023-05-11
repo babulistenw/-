@@ -2,7 +2,7 @@
 int main()
 {
 	int a,b,n,i;
-	scanf("%d %d %d",&a,&b,&n);
+	scanf("%d %d %d",&a,&b,&n);//读入a b n
 	for(i=0; ;i++)
 	if(i%7>5)
 	{
